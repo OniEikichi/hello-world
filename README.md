@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hi there, I like swift and plan to practice swift here.
